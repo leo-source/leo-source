@@ -14,4 +14,4 @@ We pride ourselves on providing exceptional customer service and building long-t
 
 Choose our software development team and rest assured that your project will be delivered on time, on budget, and to the highest standard of quality. Let us help you bring your vision to reality!
 
-[Hire on Upwork](https://www.upwork.com/ag/leosource/)
+[Hire team on Upwork](https://www.upwork.com/ag/leosource/)
