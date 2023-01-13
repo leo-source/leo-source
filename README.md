@@ -1,4 +1,4 @@
-# Leo·Source ([https://www.upwork.com/ag/leosource/](Upwork))
+# Leo·Source
 
 **_Software development team for your short and long-term projects_**
 
@@ -13,3 +13,5 @@ We work closely with our clients to understand their goals and objectives, and d
 We pride ourselves on providing exceptional customer service and building long-term partnerships with our clients. Whether you're looking for a single developer for a short-term project or a full team for a long-term engagement, we have the resources and expertise to help you achieve your goals. Our flexible engagement models allow you to scale up or down depending on your needs.
 
 Choose our software development team and rest assured that your project will be delivered on time, on budget, and to the highest standard of quality. Let us help you bring your vision to reality!
+
+[Hire on Upwork](https://www.upwork.com/ag/leosource/)
